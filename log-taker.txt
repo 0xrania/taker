@@ -4508,3 +4508,12 @@
 5/4/2025 | 1:22:57 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/4/2025 | 1:22:57 AM | INFO | Trying to activate mining on-chain for wallet: 0x2ccE7520F57936E3D9A7a1Fb581D6Ffe75537922 
 5/4/2025 | 1:23:07 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x0e5b8c0c63e7eba33fa0e842ef22a0d96ec6e0efa483dfad39291c66882c6597 
+5/4/2025 | 4:19:21 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/4/2025 | 4:19:21 AM | INFO | Start process for wallet 0x2ccE7520F57936E3D9A7a1Fb581D6Ffe75537922 
+5/4/2025 | 4:19:22 AM | INFO | Trying To Login for wallet: 0x2ccE7520F57936E3D9A7a1Fb581D6Ffe75537922 
+5/4/2025 | 4:19:23 AM | INFO | Login successful... 
+5/4/2025 | 4:19:23 AM | INFO | Trying to check user info... 
+5/4/2025 | 4:19:24 AM | INFO | User ID: 102689323 | Twitter: @raniawlndri | Total Points: 1704000 
+5/4/2025 | 4:19:24 AM | INFO | Trying to check user miner status... 
+5/4/2025 | 4:19:25 AM | INFO | Last mining time: 5/4/2025, 1:23:03 AM
+5/4/2025 | 4:19:25 AM | WARN | Mining already started, next mining time is: 5/5/2025, 1:23:03 AM
